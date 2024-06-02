@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupeshsaha
-- 👀 I’m interested in developing websites and app
-- 🌱 I’m currently learning frontend development 
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning JavaScript  
 - 💞️ I’m looking to collaborate on frontend side
 - 📫 How to reach me - rupeshsaha899@gmail.com
 - 😄 Pronouns: He 
