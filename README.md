@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on frontend side
 - 📫 How to reach me - rupeshsaha899@gmail.com
 - 😄 Pronouns: He 
-- ⚡ Fun fact: ...
 
 <!---
 rupeshsaha/rupeshsaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
