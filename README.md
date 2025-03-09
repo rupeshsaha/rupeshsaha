@@ -15,7 +15,7 @@ I am a passionate software developer with a keen interest in web development. I 
 - **Frameworks/Libraries:** Next.js, React, Node.js, Express
 - **Tools:** Git
 - **Databases:** MongoDB
-- **Other:** REST APIs
+- **Other:** REST APIs, AWS S3
 
 
 ## GitHub Stats
