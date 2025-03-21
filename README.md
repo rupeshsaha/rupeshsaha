@@ -11,12 +11,21 @@ I am a passionate software developer with a keen interest in web development. I 
 
 ## Skills
 
-- **Languages:** JavaScript, C
-- **Frameworks/Libraries:** Next.js, React, Node.js, Express
-- **Tools:** Git
-- **Databases:** MongoDB
-- **Other:** REST APIs, AWS S3
-
+- **Languages:** 
+  - <i class="fab fa-js-square"></i> JavaScript
+  - <i class="fab fa-c"></i> C
+- **Frameworks/Libraries:** 
+  - <i class="fab fa-react"></i> React
+  - <i class="fas fa-code-branch"></i> Next.js
+  - <i class="fab fa-node"></i> Node.js
+  - <i class="fas fa-server"></i> Express
+- **Tools:** 
+  - <i class="fab fa-git"></i> Git
+- **Databases:** 
+  - <i class="fas fa-database"></i> MongoDB
+- **Other:** 
+  - <i class="fas fa-plug"></i> REST APIs
+  - <i class="fab fa-aws"></i> AWS S3
 
 ## GitHub Stats
 
