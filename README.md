@@ -4,7 +4,7 @@
 - 🌍 I'm based in India
 - ✉️ You can contact me at [rupeshsaha899@gmail.com](mailto:rupeshsaha899@gmail.com)
 - 🧠 I'm learning NextJs  
-  [![GitHub Follow](https://img.shields.io/github/followers/rupeshsaha?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917)](https://github.com/rupeshsaha)
+  
 
 ### Skills
 <p align="left">
