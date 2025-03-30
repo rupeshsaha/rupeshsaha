@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/rupeshsaha" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.stackoverflow.com/users/rupesh-saha" target="_blank" rel="noreferrer">
+  <a href="https://stackoverflow.com/users/25737709/rupesh-saha" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
   </a>
   <a href="https://www.x.com/therupeshsaha" target="_blank" rel="noreferrer">
