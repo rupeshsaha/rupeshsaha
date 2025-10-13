@@ -3,7 +3,7 @@
 
 - 🌍 I'm based in India
 - ✉️ You can contact me at [rupeshsaha899@gmail.com](mailto:rupeshsaha899@gmail.com)
-- 🧠 I'm learning NextJs  
+- 🧠 I'm learning Web Development.  
   
 
 ### Skills
