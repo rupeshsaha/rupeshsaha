@@ -71,9 +71,3 @@
   </a>
 </p>
 
-### Badges
-#### My GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupeshsaha&show_icons=true&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true)](https://github.com/rupeshsaha)
-
-#### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshsaha&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/rupeshsaha)
