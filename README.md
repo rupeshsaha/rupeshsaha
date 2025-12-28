@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on loometric<br>👯 I’m looking to collaborate on javascript/typescript related projects<br>🌱 I’m currently learning backend systems<br>⚡ Fun fact : The longer you spend in tech the more you want to leave all of this and start your own farm
+🔭 I’m currently working on loometric - a user behaviour analytics tool<br>👯 I’m looking to collaborate on javascript/typescript related projects<br>🌱 I’m currently learning backend systems<br>⚡ Fun fact : The longer you spend in tech the more you want to leave all of this and start your own farm
 
 
 ## 🌐 Socials:
